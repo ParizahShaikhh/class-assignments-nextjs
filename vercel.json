@@ -1,0 +1,16 @@
+{
+    "projects": [
+        {
+            "name": "assignment-1",
+            "rootDirectory": "assignment-1"
+        },
+        {
+            "name": "assignment-2",
+            "rootDirectory": "assignment-2"
+        },
+        {
+            "name": "assignment-3",
+            "rootDirectory": "assignment-3"
+        }
+    ]
+}
