@@ -15,7 +15,7 @@ const Testimonials = () => {
                         <p className='text-black text-[18px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p>
                     </div>
                     <div className='mt-4 flex items-center gap-4'>
-                        <img src="/assignment-6/public/images/team3.png" alt="team" className='w-16 h-16 rounded-full object-cover' />
+                        <img src="/images/team3.png" alt="team" className='w-16 h-16 rounded-full object-cover' />
                         <div>
                             <h1 className='text-xl font-semibold text-[16px]'>James Nduku</h1>
                             <p className='text-black text-[16px]'>Software Developer</p>
@@ -30,7 +30,7 @@ const Testimonials = () => {
                         <p className='text-black text-[18px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p>
                     </div>
                     <div className='mt-4 flex items-center gap-4'>
-                        <img src="/assignment-6/public/images/team1.png" alt="team" className='w-16 h-16 rounded-full object-cover' />
+                        <img src="/images/team1.png" alt="team" className='w-16 h-16 rounded-full object-cover' />
                         <div>
                             <h1 className='text-xl font-semibold text-[16px]'>Erick Kipkemboi</h1>
                             <p className='text-black text-[16px]'>Scrum Master</p>
@@ -45,7 +45,7 @@ const Testimonials = () => {
                         <p className='text-black text-[18px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p>
                     </div>
                     <div className='mt-4 flex items-center gap-4'>
-                    <img src="/assignment-6/public/images/team6.png" alt="Team" className="w-16 h-16 rounded-full object-cover" />
+                    <img src="/images/team6.png" alt="Team" className="w-16 h-16 rounded-full object-cover" />
                     <div>
                         <h1 className='text-xl font-semibold texxt-[16px]'>Stephen Kerubo</h1>
                         <p className='text-black text-[16px]'>UI/UX Designer</p>

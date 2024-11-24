@@ -14,7 +14,7 @@ const Courses = () => {
             <div className='mt-10 w-full px-4'>
                 <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6'>
                     <div className='bg-[#F7F7F7] rounded-md p-4'>
-                        <Image src='/assignment-6/public/images/course1.png' alt='course1' width={500} height={300} className='object-cover rounded-md' />
+                        <Image src='/images/course1.png' alt='course1' width={500} height={300} className='object-cover rounded-md' />
                         <div className='flex items-center justify-start mt-4'>
                             <p className='text-sm text-black'>Design</p>
                             <div className='flex items-center ml-2 text-gray-400'>
@@ -30,7 +30,7 @@ const Courses = () => {
                         </div>
                     </div>
                     <div className='bg-[#F7F7F7] rounded-md p-4'>
-                        <Image src='/assignment-6/public/images/course2.png' alt='course2' width={500} height={300} className='object-cover rounded-md' />
+                        <Image src='/images/course2.png' alt='course2' width={500} height={300} className='object-cover rounded-md' />
                         <div className='flex items-center justify-start mt-4'>
                             <p className='text-sm text-black'>Programming</p>
                             <div className='flex items-center ml-2 text-gray-400'>
@@ -46,7 +46,7 @@ const Courses = () => {
                         </div>
                     </div>
                     <div className='bg-[#F7F7F7] rounded-md p-4'>
-                        <Image src='/assignment-6/public/images/course3.png' alt='course3' width={500} height={300} className='object-cover rounded-md' />
+                        <Image src='/images/course3.png' alt='course3' width={500} height={300} className='object-cover rounded-md' />
                         <div className='flex items-center justify-start mt-4'>
                             <p className='text-sm text-black'>Business</p>
                             <div className='flex items-center ml-2 text-gray-400'>
@@ -64,7 +64,7 @@ const Courses = () => {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
                     <div className='bg-[#F7F7F7] rounded-md p-4 sm:block hidden'>
-                        <Image src='/assignment-6/public/images/course4.png' alt='course4' width={500} height={300} className='object-cover rounded-md' />
+                        <Image src='/images/course4.png' alt='course4' width={500} height={300} className='object-cover rounded-md' />
                         <div className='flex items-center justify-start mt-4'>
                             <p className='text-sm text-black'>Art</p>
                             <div className='flex items-center ml-2 text-gray-400'>
@@ -81,7 +81,7 @@ const Courses = () => {
                     </div>
                     
                     <div className='bg-[#F7F7F7] rounded-md p-4 sm:block hidden'>
-                        <Image src='/assignment-6/public/images/course5.png' alt='course5' width={500} height={300} className='object-cover rounded-md' />
+                        <Image src='/images/course5.png' alt='course5' width={500} height={300} className='object-cover rounded-md' />
                         <div className='flex items-center justify-start mt-4'>
                             <p className='text-sm text-black'>Law</p>
                             <div className='flex items-center ml-2 text-gray-400'>
@@ -97,7 +97,7 @@ const Courses = () => {
                         </div>
                     </div>
                     <div className='bg-[#F7F7F7] rounded-md p-4 sm:block hidden'>
-                        <Image src='/assignment-6/public/images/course6.png' alt='course6' width={500} height={300} className='object-cover rounded-md' />
+                        <Image src='/images/course6.png' alt='course6' width={500} height={300} className='object-cover rounded-md' />
                         <div className='flex items-center justify-start mt-4'>
                             <p className='text-sm text-black'>Tech</p>
                             <div className='flex items-center ml-2 text-gray-400'>

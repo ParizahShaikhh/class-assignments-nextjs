@@ -15,7 +15,7 @@ const Banner = () => {
                     </div>
                 </div>
                 <div className="mt-6 md:mt-0 w-full md:w-[640px]">
-                    <Image src='/assignment-6/public/images/Image.png' alt='Banner Image' width={720} height={900} layout="responsive" />
+                    <Image src='/images/image.png' alt='Banner Image' width={720} height={900} layout="responsive" />
                 </div>
             </div>
         </div>

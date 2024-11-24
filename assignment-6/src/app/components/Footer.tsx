@@ -22,7 +22,7 @@ export default function Footer() {
                 </div>
                 <div className='grid grid-cols-1 md:grid-cols-4 gap-8 text-center md:text-left'>
                     <div className='flex justify-center md:items-start md:justify-start'>
-                        <Image src={'/assignment-6/public/images/logo.png'} alt='footerLogo' width={136} height={40} />
+                        <Image src='/images/logo.png' alt='footerLogo' width={136} height={40} />
                     </div>
                     <div>
                         <h3 className='text-black text-xl font-bold mb-2 '>Courses</h3>
@@ -67,13 +67,13 @@ export default function Footer() {
                     <div className='flex items-center space-x-3'>
                         <div className='w-full max-w-[736px] h-6 flex justify-end gap-4'>
                             <Link href='#' className='h-6 w-6'>
-                            <Image src='/assignment-6/public/images/fb.png'  alt='facebook' width={18} height={18} /></Link>
+                            <Image src='/images/fb.png'  alt='facebook' width={18} height={18} /></Link>
                             <Link href='#' className='h-6 w-6'>
-                            <Image src='/assignment-6/public/images/instagram.svg'  alt='instagram' width={18} height={18} /></Link>
+                            <Image src='/images/instagram.svg'  alt='instagram' width={18} height={18} /></Link>
                             <Link href='#' className='h-6 w-6'>
-                            <Image src='/assignment-6/public/images/Twitter.svg'  alt='twitter' width={18} height={18} /></Link>
+                            <Image src='/images/Twitter.svg'  alt='twitter' width={18} height={18} /></Link>
                             <Link href='#' className='h-6 w-6'>
-                            <Image src='/assignment-6/public/images/LinkedIn.svg'  alt='linkedIn' width={18} height={18} /></Link>
+                            <Image src='/images/LinkedIn.svg'  alt='linkedIn' width={18} height={18} /></Link>
                         </div>
                     </div>
                 </div>
