@@ -7,63 +7,63 @@ const Team  = () => {
             <p className='text-center mb-8'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-8'>
                 <div className='flex flex-col items-center'>
-                    <img src="" alt="Team Member 1" className='w-[80px] h-[80px] object-cover' />
+                    <img src="/assignment-6/public/images/team1.png" alt="Team Member 1" className='w-[80px] h-[80px] object-cover' />
                     <h1>James Nduku</h1>
                     <p>Marketing Coordinator</p>
                     <div className='flex gap-2 mt-2'>
-                        <img src="" alt="LinkedIn" className='w-4 h-4 cursor-pointer' />
-                        <img src="" alt="twitter" className='w-4 h-4 cursor-pointer' />
-                        <img src="" alt="other" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/LinkedIn.svg" alt="LinkedIn" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/Twitter.svg" alt="twitter" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/icon.svg" alt="other" className='w-4 h-4 cursor-pointer' />
                     </div>
                 </div>
                 <div className='flex flex-col items-center'>
-                    <img src="" alt="Team Member 2" className='w-[80px] h-[80px] object-cover' />
+                    <img src="/assignment-6/public/images/team2.png" alt="Team Member 2" className='w-[80px] h-[80px] object-cover' />
                     <h1>Joseph Munyambu</h1>
                     <p>Nursing Assistant</p>
                     <div className='flex gap-2 mt-2'>
-                        <img src="" alt="LinkedIn" className='w-4 h-4 cursor-pointer' />
-                        <img src="" alt="twitter" className='w-4 h-4 cursor-pointer' />
-                        <img src="" alt="other" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/LinkedIn.svg" alt="LinkedIn" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/Twitter.svg" alt="twitter" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/icon.svg" alt="other" className='w-4 h-4 cursor-pointer' />
                     </div>
                 </div>
                 <div className='flex flex-col items-center'>
-                    <img src="" alt="Team Member 3" className='w-[80px] h-[80px] object-cover' />
+                    <img src="/assignment-6/public/images/team3.png" alt="Team Member 3" className='w-[80px] h-[80px] object-cover' />
                     <h1>Joseph Ngumbau</h1>
                     <p>Medical Assistant</p>
                     <div className='flex gap-2 mt-2'>
-                        <img src="" alt="LinkedIn" className='w-4 h-4 cursor-pointer' />
-                        <img src="" alt="twitter" className='w-4 h-4 cursor-pointer' />
-                        <img src="" alt="other" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/LinkedIn.svg" alt="LinkedIn" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/Twitter.svg" alt="twitter" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/icon.svg" alt="other" className='w-4 h-4 cursor-pointer' />
                     </div>
                 </div>
                 <div className='flex flex-col items-center'>
-                    <img src="" alt="Team Member 4" className='w-[80px] h-[80px] object-cover' />
+                    <img src="/assignment-6/public/images/team4.png" alt="Team Member 4" className='w-[80px] h-[80px] object-cover' />
                     <h1>Erick Kipkemboi</h1>
                     <p>Web Designer</p>
                     <div className='flex gap-2 mt-2'>
-                        <img src="" alt="LinkedIn" className='w-4 h-4 cursor-pointer' />
-                        <img src="" alt="twitter" className='w-4 h-4 cursor-pointer' />
-                        <img src="" alt="other" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/LinkedIn.svg" alt="LinkedIn" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/Twitter.svg" alt="twitter" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/icon.svg" alt="other" className='w-4 h-4 cursor-pointer' />
                     </div>
                 </div>
                 <div className='flex flex-col items-center'>
-                    <img src="" alt="Team Member 5" className='w-[80px] h-[80px] object-cover' />
+                    <img src="/assignment-6/public/images/team5.png" alt="Team Member 5" className='w-[80px] h-[80px] object-cover' />
                     <h1>Stephen Kerubo</h1>
                     <p>President of Sales</p>
                     <div className='flex gap-2 mt-2'>
-                        <img src="" alt="LinkedIn" className='w-4 h-4 cursor-pointer' />
-                        <img src="" alt="twitter" className='w-4 h-4 cursor-pointer' />
-                        <img src="" alt="other" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/LinkedIn.svg" alt="LinkedIn" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/Twitter.svg" alt="twitter" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/icon.svg" alt="other" className='w-4 h-4 cursor-pointer' />
                     </div>
                 </div>
                 <div className='flex flex-col items-center'>
-                    <img src="" alt="Team Member 6" className='w-[80px] h-[80px] object-cover' />
+                    <img src="/assignment-6/public/images/team6.png" alt="Team Member 6" className='w-[80px] h-[80px] object-cover' />
                     <h1>John Leboo</h1>
                     <p>Dog Trainer</p>
                     <div className='flex gap-2 mt-2'>
-                        <img src="" alt="LinkedIn" className='w-4 h-4 cursor-pointer' />
-                        <img src="" alt="twitter" className='w-4 h-4 cursor-pointer' />
-                        <img src="" alt="other" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/LinkedIn.svg" alt="LinkedIn" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/Twitter.svg" alt="twitter" className='w-4 h-4 cursor-pointer' />
+                        <img src="/assignment-6/public/images/icon.svg" alt="other" className='w-4 h-4 cursor-pointer' />
                     </div>
                 </div>
             </div>

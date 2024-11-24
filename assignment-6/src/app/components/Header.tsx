@@ -18,13 +18,13 @@ const Header = () => {
                     Phone: 956 742 455 678 | Email: info@ddsgnr.com
                 </span>
                 <div className="hidden sm:flex gap-4">
-                    <img src="" alt="Facebook" className="w-6 h-6 cursor-pointer" /><img src="" alt="Instagram" className="w-6 h-6 cursor-pointer" /><img src="" alt="Twitter" className="w-6 h-6 cursor-pointer" /><img src="" alt="LinkedIn" className="w-6 h-6 cursor-pointer" />
+                    <img src="/assignment-6/public/images/fb.png" alt="Facebook" className="w-6 h-6 cursor-pointer" /><img src="/assignment-6/public/images/instagram.svg" alt="Instagram" className="w-6 h-6 cursor-pointer" /><img src="/assignment-6/public/images/Twitter.svg" alt="Twitter" className="w-6 h-6 cursor-pointer" /><img src="/assignment-6/public/images/LinkedIn.svg" alt="LinkedIn" className="w-6 h-6 cursor-pointer" />
                 </div>
             </div>
             <div className="w-full h-[1px] bg-black sm:block hidden"></div>
 
             <div className="w-full h-[50px] bg-[#F7F7F7] flex items-center justify-between px-4 sm:px-10 ">
-                <Image src='' alt="Logo" className="w-[120px] sm:w-[150px] h-[35px]" />
+                <Image src='/assignment-6/public/images/logo.png' alt="Logo" className="w-[120px] sm:w-[150px] h-[35px]" />
                 <div className="sm:hidden flex items-center">
                     <button onClick={toggleMenu} className="text-black">
                         <AiOutlineMenu className="w-6 h-6" />
