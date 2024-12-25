@@ -1,7 +1,5 @@
 import React from "react";
 import Link from "next/link";
-import ClientSidePage from "@/app/ClientSideDataFetching/page";
-import ServerSidePage from "@/app/ServerSideDataFetching/page";
 
 const Navbar = () => {
   return (
