@@ -57,7 +57,7 @@ const Header = () => {
         {menuOpen && (
             <div className="sm:hidden flex flex-col items-center bg-white w-full py-4 relative">
                 <button onClick={toggleMenu} className="absolute top-4 right-4 text-2xl text-black">
-                    <AiOutlineClose />
+                    <AiOutlineClose />.
                 </button>
                 <div className="cursor-pointer text-black py-2 px-3 rounded-md text-[14px] hover:bg-gray-200">
                     Home
