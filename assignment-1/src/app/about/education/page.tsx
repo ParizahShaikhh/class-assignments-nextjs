@@ -2,10 +2,14 @@ import Navbar from "../../components/NavBar";
 
 export default function NestedPage() {
   return (
-    <div>
+    <div className="bg-white min-h-screen text-gray-800">
       <Navbar />
-      <h1 className="text-center grid ">My Education</h1>
-      <p className="text-center grid ">I am currently pursuing a Generative AI Engineering. I’ve been actively involved in self-learning and enhancing my skills through online courses and personal projects.</p>
+      <section className="px-6 py-10">
+        <h1 className="text-4xl font-extrabold text-center mb-6">My Education</h1>
+        <p className="text-lg text-gray-700 text-center max-w-3xl mx-auto leading-relaxed">
+          I am currently pursuing a <strong>Generative AI Engineering</strong> program. In addition to formal education, I am actively engaged in self-learning and continuously enhancing my skills through various online courses and personal projects.
+        </p>
+      </section>
     </div>
-  )
-};
+  );
+}
